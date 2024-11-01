@@ -10,6 +10,6 @@
     "type": "jwt"
   },
   "apiVersion": 1,
-  "scopes": [ "read:project:jira", "read:jira-work", "write:jira-work", "write:jira-work"],
+  "scopes": [ "write", "read" ],
   "modules": {}
 }
