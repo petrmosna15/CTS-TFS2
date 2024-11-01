@@ -1,0 +1,15 @@
+{
+  "key": "80c1051f-e5e5-4976-a8f5-c8f717c3ce74",
+  "name": "CTS-TFS2",
+  "baseUrl": "https://developer.atlassian.com/console/myapps/80c1051f-e5e5-4976-a8f5-c8f717c3ce74/overview",
+  "vendor": {
+    "name": "CTS Trade IT",
+    "url": "https://ctstradeit.cz/"
+  },
+  "authentication": {
+    "type": "jwt"
+  },
+  "apiVersion": 1,
+  "scopes": [ "read:project:jira", "read:jira-work", "write:jira-work", "write:jira-work"],
+  "modules": {}
+}
