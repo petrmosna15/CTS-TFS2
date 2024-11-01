@@ -7,7 +7,7 @@
     "url": "https://ctstradeit.cz/"
   },
   "authentication": {
-    "type": "jwt"
+    "type": "none"
   },
   "apiVersion": 1,
   "scopes": [ "write", "read" ],
